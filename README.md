@@ -6,4 +6,4 @@ Modelo de curriculum gerado por IA dedicado ao workshop de Git e Github ministra
 - Objetivo profissional
 - Experiência
 - Conhecimentos
-
+- opa cheguei aqui que massa
